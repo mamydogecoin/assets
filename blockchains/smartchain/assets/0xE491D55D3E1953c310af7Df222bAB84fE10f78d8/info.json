@@ -1,0 +1,10 @@
+    "name": "Mamy Doge Coin",
+    "website": "https://mamydogecoin.com/",
+    "description": "If you like Doge then you'll fall in love with Mamy Doge Coin.",
+    "explorer": "https://bscscan.com/token/0xE491D55D3E1953c310af7Df222bAB84fE10f78d8",
+    "type": "BEP20",
+    "symbol": "MamyDoge",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xE491D55D3E1953c310af7Df222bAB84fE10f78d8"
+}
